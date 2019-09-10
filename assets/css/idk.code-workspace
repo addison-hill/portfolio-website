@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\Addison\\Documents\\Lambda\\portfolio-website\\images"
+		},
+		{
+			"path": "C:\\Users\\Addison\\Documents\\Lambda\\portfolio-website\\assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assets"
+	}
+}
